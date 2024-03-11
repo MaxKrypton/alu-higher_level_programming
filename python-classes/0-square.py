@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-import random
+"""Create an Empty Square """
+
 class Square:
-    """Represent a Class Square"""
+    ''' creates an empty square'''
     pass
