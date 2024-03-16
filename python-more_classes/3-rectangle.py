@@ -65,3 +65,4 @@ class Rectangle:
 
                 rect += '\n'
             return rect[:-1]
+        
