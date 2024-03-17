@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-"""Create an Empty Square """
+# 0-square.py
+# Brennan D Baraban <375@holbertonschool.com>
+"""Define a class Square."""
+
+
 class Square:
-    ''' creates an empty square'''
+    """Represent a square."""
     pass
